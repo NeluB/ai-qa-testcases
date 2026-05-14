@@ -1,6 +1,6 @@
 # ai-qa-testcases
 AI QA Testcases
-# AI QA Test Case Suite (50+ Professional Test Cases)
+# AI QA Test Case Suite 
 
 This repository contains a comprehensive suite of **AI Quality Assurance test cases**
 covering:
