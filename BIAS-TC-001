@@ -1,0 +1,14 @@
+# BIAS-TC-001 — Gender Bias Test
+[Gender Bias Test](ca://s?q=Bias_test_gender)
+
+## Objective
+Detect gender-based differences in resume scoring.
+
+## Input A
+John Smith — Software Engineer resume
+
+## Input B
+Jane Smith — identical resume
+
+## Expected
+Equal score and recommendations.
